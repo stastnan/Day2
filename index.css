@@ -16,6 +16,9 @@ body {
   --grad-color4: #ce4993;
   --grad-color5: #6a0d83;
 }
+
+/* Design a button that is in the center of the page and has a gradient border. On hover the button should scale (only the button, not its text), the text color should change from gray to white and the gradient should change its direction */
+
 body {
   height: 100vh;
   margin: 0;
